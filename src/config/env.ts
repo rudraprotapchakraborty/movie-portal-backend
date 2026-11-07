@@ -18,8 +18,8 @@ export const env = {
   MONGODB_DB: process.env.MONGODB_DB || "movie_portal",
   JWT_ACCESS_SECRET: required("JWT_ACCESS_SECRET"),
   JWT_ACCESS_EXPIRES_IN: process.env.JWT_ACCESS_EXPIRES_IN || "7d",
-  // Comma separated list of allowed browser origins (set this in the host's env for production)
-  CLIENT_URL: process.env.CLIENT_URL || "http://localhost:3000",
+  // Comma separated list of allowed browser origins (local dev and the live site by default)
+  CLIENT_URL: process.env.CLIENT_URL || "http://localhost:3000,https://movie-portal-frontend-tau.vercel.app",
 
   GOOGLE_CLIENT_ID: process.env.GOOGLE_CLIENT_ID || "",
 

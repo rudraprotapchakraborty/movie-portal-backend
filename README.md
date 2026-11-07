@@ -1,6 +1,6 @@
 # Movie Portal · API
 
-REST API for the [Movie Portal](https://github.com/rudraprotapchakraborty/movie-portal-frontend). Express 5, TypeScript, MongoDB (Mongoose) and Zod.
+REST API for the [Movie Portal](https://movie-portal-frontend-tau.vercel.app/) ([frontend repository](https://github.com/rudraprotapchakraborty/movie-portal-frontend)). Deployed at [movie-portal-backend-chi.vercel.app](https://movie-portal-backend-chi.vercel.app/). Express 5, TypeScript, MongoDB (Mongoose) and Zod.
 
 ## Features
 
@@ -33,7 +33,7 @@ The sample catalogue lives in `scripts/movies.seed.json`: 88 movies with titles,
 | --- | --- |
 | `MONGODB_URI`, `MONGODB_DB` | Database connection. The app uses its own database (default `movie_portal`). |
 | `JWT_ACCESS_SECRET` | Secret for signing tokens and hashing codes. |
-| `CLIENT_URL` | Comma separated list of allowed browser origins (include the deployed frontend). |
+| `CLIENT_URL` | Comma separated list of allowed browser origins. Defaults to localhost and the live frontend. |
 | `GOOGLE_CLIENT_ID` | Google OAuth client id used to verify ID tokens. |
 | `SMTP_*`, `MAIL_FROM`, `RESEND_API_KEY` | Email delivery (SMTP first, Resend as fallback). Without either, codes are printed to the console in development. |
 | `IMGBB_API_KEY` | Hosts profile photos. |
