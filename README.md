@@ -1,4 +1,23 @@
-# Movie Portal · API
+<div align="center">
+
+# 🎬 Movie Portal
+
+**Movie catalogue with search, genres, favorites and member-added movies.**
+
+[**Live demo**](https://movie-portal-frontend-tau.vercel.app/) · [Frontend](https://github.com/rudraprotapchakraborty/movie-portal-frontend) · [API status](https://movie-portal-backend-chi.vercel.app/) · [Portfolio](https://rudraprotapchakraborty.com/projects)
+
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=nodedotjs&logoColor=ffffff) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=ffffff) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff) ![Google Sign--In](https://img.shields.io/badge/Google_Sign--In-4285f4?style=for-the-badge&logo=google&logoColor=ffffff)
+
+<a href="https://movie-portal-frontend-tau.vercel.app/"><img src="https://i.ibb.co/fhbYrFV/movie-portal.webp" alt="Movie Portal: home page" width="880"></a>
+
+</div>
+
+> The REST API of **Movie Portal**.
+>
+> - 88 titles with posters, runtimes and synopses from Wikipedia
+> - Search, genre filters, sorting and paging without an account
+> - Members save favourites and add their own movies
+> - Owners and admins can edit or delete what they added
 
 REST API for the [Movie Portal](https://movie-portal-frontend-tau.vercel.app/) ([frontend repository](https://github.com/rudraprotapchakraborty/movie-portal-frontend)). Deployed at [movie-portal-backend-chi.vercel.app](https://movie-portal-backend-chi.vercel.app/). Express 5, TypeScript, MongoDB (Mongoose) and Zod.
 
@@ -54,3 +73,11 @@ All routes live under `/api`. Responses look like `{ "success": true, "data": ..
 ## Deploying
 
 Vercel is supported out of the box: `api/index.ts` is the serverless entry and `vercel.json` rewrites every request to it (the MongoDB connection is cached between invocations). Set the environment variables above in the project settings, including `CLIENT_URL`.
+
+---
+
+<div align="center">
+
+Made by **[Rudra Protap Chakraborty](https://rudraprotapchakraborty.com)** · [Portfolio](https://rudraprotapchakraborty.com) · [GitHub](https://github.com/rudraprotapchakraborty)
+
+</div>
