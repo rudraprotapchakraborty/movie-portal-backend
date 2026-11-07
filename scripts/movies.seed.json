@@ -1,0 +1,882 @@
+[
+  {
+    "title": "Iron Man",
+    "genre": "action",
+    "duration": 126,
+    "release": 2008,
+    "rating": 7.9,
+    "summary": "Iron Man is a 2008 American superhero film based on the Marvel Comics character Iron Man. Produced by Marvel Studios and distributed by Paramount Pictures, it is the first film in the Marvel Cinematic Universe (MCU). Directed by Jon Favreau and written by the teams of Mark Fergus & Hawk Ostby and Art Marcum & Matt Holloway, the film stars Robert Downey Jr. as Tony Stark / Iron Man alongside Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, and Shaun Toub. In the film, world-famous industrialist and master engineer Stark builds a mechanized suit of armor to escape from captivity by a terrorist group, and then uses the suit to become the superhero Iron Man.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)"
+  },
+  {
+    "title": "The Avengers",
+    "genre": "action",
+    "duration": 142,
+    "release": 2012,
+    "rating": 8,
+    "summary": "Marvel's The Avengers is a 2012 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sixth film in the Marvel Cinematic Universe (MCU). Written and directed by Joss Whedon, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, and Jeremy Renner as the Avengers, alongside Tom Hiddleston, Stellan Skarsgård, and Samuel L. Jackson. In the film, Nick Fury and the spy agency S.H.I.E.L.D. recruit Tony Stark, Steve Rogers, Bruce Banner, Thor, Natasha Romanoff, and Clint Barton to form a team capable of stopping Thor's brother Loki from subjugating Earth.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "genre": "sci-fi",
+    "duration": 121,
+    "release": 2014,
+    "rating": 8,
+    "summary": "Guardians of the Galaxy is a 2014 American superhero film based on the Marvel Comics superhero team the Guardians of the Galaxy. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 10th film in the Marvel Cinematic Universe (MCU). Directed by James Gunn, who wrote the screenplay with Nicole Perlman, it features an ensemble cast including Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel, and Bradley Cooper as the titular Guardians, along with Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, John C. Reilly, Glenn Close, and Benicio del Toro. In the film, Peter Quill (Pratt) and a group of extraterrestrial criminals go on the run after stealing a powerful artifact.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/33/Guardians_of_the_Galaxy_%28film%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+  },
+  {
+    "title": "Black Panther",
+    "genre": "action",
+    "duration": 134,
+    "release": 2018,
+    "rating": 7.3,
+    "summary": "Black Panther is a 2018 American superhero film based on the Marvel Comics character T'Challa / Black Panther. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 18th film in the Marvel Cinematic Universe (MCU). The film was directed by Ryan Coogler from a screenplay he wrote with Joe Robert Cole, and stars Chadwick Boseman as T'Challa / Black Panther alongside Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Sterling K. Brown, Angela Bassett, Forest Whitaker, and Andy Serkis.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "genre": "action",
+    "duration": 181,
+    "release": 2019,
+    "rating": 8.4,
+    "summary": "Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU). Directed by Anthony and Joe Russo and written by Christopher Markus and Stephen McFeely, the film features an ensemble cast that includes Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, and Josh Brolin.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Avengers%3A_Endgame"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "genre": "action",
+    "duration": 148,
+    "release": 2021,
+    "rating": 8.2,
+    "summary": "Spider-Man: No Way Home is a 2021 American superhero film based on the Marvel Comics character Spider-Man. Produced by Columbia Pictures, Marvel Studios, and Pascal Pictures, and distributed by Sony Pictures Releasing, it is the sequel to Spider-Man: Homecoming (2017) and Spider-Man: Far From Home (2019), and the 27th film in the Marvel Cinematic Universe (MCU). The film was directed by Jon Watts, written by Chris McKenna and Erik Sommers, and stars Tom Holland as Peter Parker / Spider-Man alongside Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Jamie Foxx, Willem Dafoe, Alfred Molina, Benedict Wong, Tony Revolori, Marisa Tomei, Andrew Garfield, and Tobey Maguire. In the film, Peter asks Dr.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man%3A_No_Way_Home"
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "genre": "fantasy",
+    "duration": 126,
+    "release": 2022,
+    "rating": 6.9,
+    "summary": "Doctor Strange in the Multiverse of Madness is a 2022 American superhero film based on Marvel Comics featuring the character Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Doctor Strange (2016) and the 28th film in the Marvel Cinematic Universe (MCU). The film was directed by Sam Raimi, written by Michael Waldron, and stars Benedict Cumberbatch as Stephen Strange, alongside Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Xochitl Gomez, Michael Stuhlbarg, and Rachel McAdams. In the film, Strange must protect America Chavez (Gomez), a teenager capable of traveling the multiverse, from the Scarlet Witch (Olsen).",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness"
+  },
+  {
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "genre": "sci-fi",
+    "duration": 125,
+    "release": 2023,
+    "rating": 6.1,
+    "summary": "Ant-Man and the Wasp: Quantumania is a 2023 American superhero film based on Marvel Comics featuring the characters Scott Lang / Ant-Man and Hope Pym / Wasp. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Ant-Man (2015) and Ant-Man and the Wasp (2018), and the 31st film in the Marvel Cinematic Universe (MCU). It was directed by Peyton Reed, written by Jeff Loveness, and stars Paul Rudd as Scott Lang and Evangeline Lilly as Hope van Dyne, alongside Jonathan Majors, Kathryn Newton, David Dastmalchian, Katy O'Brian, William Jackson Harper, Bill Murray, Michelle Pfeiffer, Corey Stoll, and Michael Douglas. In the film, Scott, Hope, and their family are accidentally transported to the Quantum Realm and face off against Kang the Conqueror (Majors).",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/30/Ant-Man_and_the_Wasp_Quantumania_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp%3A_Quantumania"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "genre": "sci-fi",
+    "duration": 150,
+    "release": 2023,
+    "rating": 7.9,
+    "summary": "Guardians of the Galaxy Vol. 3 is a 2023 American superhero film based on Marvel Comics featuring the superhero team Guardians of the Galaxy. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Guardians of the Galaxy (2014) and Guardians of the Galaxy Vol. 2 (2017), and the 32nd film in the Marvel Cinematic Universe (MCU). Written and directed by James Gunn, it features an ensemble cast including Chris Pratt, Zoe Saldaña, Dave Bautista, Karen Gillan, Pom Klementieff, Vin Diesel, Bradley Cooper, Will Poulter, Sean Gunn, Chukwudi Iwuji, Linda Cardellini, Nathan Fillion, and Sylvester Stallone. In the film, the other Guardians race to save the life of Rocket (Cooper) from his creator, the High Evolutionary (Iwuji), who is an alien scientist trying to perfect the universe.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3"
+  },
+  {
+    "title": "The Marvels",
+    "genre": "action",
+    "duration": 105,
+    "release": 2023,
+    "rating": 5.6,
+    "summary": "The Marvels is a 2023 American superhero film based on Marvel Comics. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to the film Captain Marvel (2019), a continuation of the television miniseries Ms. Marvel (2022), and the 33rd film in the Marvel Cinematic Universe (MCU). The film was directed by Nia DaCosta, who co-wrote the screenplay with Megan McDonnell and Elissa Karasik. It stars Brie Larson as Carol Danvers / Captain Marvel, Teyonah Parris as Monica Rambeau, and Iman Vellani as Kamala Khan / Ms. Marvel, alongside Zawe Ashton, Gary Lewis, Park Seo-joon, Zenobia Shroff, Mohan Kapur, Saagar Shaikh, and Samuel L. Jackson. In the film, Danvers, Rambeau, and Kamala team up as \"the Marvels\" after they begin swapping places with each other every time they use their powers.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/The_Marvels_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Marvels"
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "genre": "action",
+    "duration": 127,
+    "release": 2024,
+    "rating": 7.6,
+    "summary": "Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics featuring the characters Deadpool and Wolverine. Produced by Marvel Studios, Maximum Effort, and 21 Laps Entertainment, and distributed by Walt Disney Studios Motion Pictures, it is the 34th film in the Marvel Cinematic Universe (MCU) and the sequel to Deadpool (2016) and Deadpool 2 (2018). The film was directed by Shawn Levy, who wrote the screenplay with Ryan Reynolds, Rhett Reese, Paul Wernick, and Zeb Wells. Reynolds and Hugh Jackman respectively star as Wade Wilson / Deadpool and Logan / Wolverine, alongside Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Aaron Stanford, and Matthew Macfadyen. In the film, Deadpool works with a reluctant Wolverine from another universe to stop the Time Variance Authority (TVA) from destroying his own universe.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
+  },
+  {
+    "title": "Captain America: Brave New World",
+    "genre": "action",
+    "duration": 118,
+    "release": 2025,
+    "rating": 5.7,
+    "summary": "Captain America: Brave New World is a 2025 American superhero film based on Marvel Comics featuring the character Sam Wilson / Captain America. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the fourth installment in the Captain America film series, a continuation of the television miniseries The Falcon and the Winter Soldier (2021), and the 35th film in the Marvel Cinematic Universe (MCU). The film was directed by Julius Onah from a screenplay by Rob Edwards and the writing teams of Malcolm Spellman & Dalan Musson and Onah & Peter Glanz. It stars Anthony Mackie as Sam Wilson / Captain America alongside Danny Ramirez, Shira Haas, Carl Lumbly, Xosha Roquemore, Giancarlo Esposito, Liv Tyler, Tim Blake Nelson, and Harrison Ford. In the film, Wilson investigates a conspiracy involving U.S.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a4/Captain_America_Brave_New_World_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Captain_America%3A_Brave_New_World"
+  },
+  {
+    "title": "Thunderbolts*",
+    "genre": "action",
+    "duration": 126,
+    "release": 2025,
+    "rating": 7.4,
+    "summary": "Thunderbolts* is a 2025 American superhero film based on Marvel Comics featuring the team Thunderbolts. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 36th film in the Marvel Cinematic Universe (MCU). The film was directed by Jake Schreier from a screenplay by Eric Pearson and Joanna Calo, and stars an ensemble cast featuring Florence Pugh, Sebastian Stan, Wyatt Russell, Olga Kurylenko, Lewis Pullman, Geraldine Viswanathan, Chris Bauer, Wendell Pierce, David Harbour, Hannah John-Kamen, and Julia Louis-Dreyfus. In the film, a group of antiheroes are caught in a trap and forced to work together on a mission that uncovers their traumatic pasts.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/90/Thunderbolts%2A_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Thunderbolts*"
+  },
+  {
+    "title": "Star Wars: A New Hope",
+    "genre": "sci-fi",
+    "duration": 121,
+    "release": 1977,
+    "rating": 8.6,
+    "summary": "Star Wars is a 1977 American epic space opera film written and directed by George Lucas. Produced by Lucasfilm Ltd. and distributed by Twentieth Century-Fox, it is the first film in the Star Wars franchise and the fourth chronological chapter of the \"Skywalker Saga\". Set in a fictional galaxy ruled by the tyrannical Galactic Empire, the film follows a resistance movement called the Rebel Alliance that aims to destroy the Empire's ultimate weapon, the Death Star. When the rebel leader Princess Leia is captured by the Galactic Empire, Luke Skywalker acquires stolen architectural plans for the Death Star and sets out to rescue her while learning the ways of a metaphysical power known as \"the Force\" from the Jedi Master Obi-Wan Kenobi.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",
+    "source": "https://en.wikipedia.org/wiki/Star_Wars_(film)"
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "genre": "sci-fi",
+    "duration": 124,
+    "release": 1980,
+    "rating": 8.7,
+    "summary": "The Empire Strikes Back is a 1980 American epic space opera film directed by Irvin Kershner from a screenplay by Leigh Brackett and Lawrence Kasdan, based on a story by George Lucas. The sequel to Star Wars (1977), it is the second film in the Star Wars film series and the fifth chronological chapter of the \"Skywalker Saga\". Set three years after the events of Star Wars, the film recounts the battle between the malevolent Galactic Empire, led by the Emperor, and the Rebel Alliance, led by Luke Skywalker and Princess Leia. As the Empire goes on the offensive, Luke trains to master the Force so he can confront the Emperor's powerful disciple, Darth Vader. The ensemble cast includes Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew, and Frank Oz.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3f/The_Empire_Strikes_Back_%281980_film%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Empire_Strikes_Back"
+  },
+  {
+    "title": "Return of the Jedi",
+    "genre": "sci-fi",
+    "duration": 134,
+    "release": 1983,
+    "rating": 8.3,
+    "summary": "Return of the Jedi is a 1983 American epic space opera film directed by Richard Marquand from a screenplay by Lawrence Kasdan and George Lucas. The sequel to The Empire Strikes Back (1980), it is the third installment in the original Star Wars trilogy and the sixth chronological film in the \"Skywalker Saga\". The film follows the ongoing struggle between the malevolent Galactic Empire and the freedom fighters of the Rebel Alliance. As the Rebels attempt to destroy the Empire's second Death Star, Luke Skywalker tries to bring his father, Darth Vader, back from the dark side of the Force. The film stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew, and Frank Oz.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b2/ReturnOfTheJediPoster1983.jpg",
+    "source": "https://en.wikipedia.org/wiki/Return_of_the_Jedi"
+  },
+  {
+    "title": "Star Wars: The Force Awakens",
+    "genre": "sci-fi",
+    "duration": 138,
+    "release": 2015,
+    "rating": 7.8,
+    "summary": "Star Wars: The Force Awakens, also known as Star Wars: Episode VII – The Force Awakens, is a 2015 American epic space opera film produced, co-written, and directed by J. J. Abrams. The sequel to Return of the Jedi (1983), it is the first installment of the Star Wars sequel trilogy and chronologically the seventh film of the \"Skywalker Saga\". Set thirty years after Return of the Jedi, The Force Awakens follows Rey, Finn, Poe Dameron, and Han Solo's search for Luke Skywalker and their fight in the Resistance, led by General Leia Organa and veterans of the Rebel Alliance, against Kylo Ren and the First Order, a successor to the Galactic Empire.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Star_Wars%3A_The_Force_Awakens"
+  },
+  {
+    "title": "Rogue One",
+    "genre": "sci-fi",
+    "duration": 133,
+    "release": 2016,
+    "rating": 7.8,
+    "summary": "Rogue One: A Star Wars Story is a 2016 American epic space opera film directed by Gareth Edwards and written by Chris Weitz and Tony Gilroy. Produced by Lucasfilm and distributed by Walt Disney Studios Motion Pictures, it is the first Star Wars anthology film and a prequel to Star Wars (1977). It stars Felicity Jones, Diego Luna, Ben Mendelsohn, Donnie Yen, Mads Mikkelsen, Alan Tudyk, Riz Ahmed, Jiang Wen, and Forest Whitaker. Set a week before the events of Star Wars, the film follows rebels who steal the schematics for the Galactic Empire's ultimate weapon, the Death Star. It details the Rebel Alliance's first effective victory against the Empire, as referenced in the Star Wars opening crawl.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png",
+    "source": "https://en.wikipedia.org/wiki/Rogue_One"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": "fantasy",
+    "duration": 178,
+    "release": 2001,
+    "rating": 8.9,
+    "summary": "The Lord of the Rings: The Fellowship of the Ring is a 2001 epic fantasy film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, and Jackson. It is based on J. R. R. Tolkien's 1954 The Fellowship of the Ring, the first volume of the novel The Lord of the Rings. The film is the first instalment in the Lord of the Rings trilogy. It features an ensemble cast including Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Billy Boyd, Dominic Monaghan in his film debut, Orlando Bloom, Christopher Lee, Hugo Weaving, Sean Bean, Ian Holm, and Andy Serkis.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Lord_Rings_Fellowship_Ring.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "genre": "fantasy",
+    "duration": 179,
+    "release": 2002,
+    "rating": 8.8,
+    "summary": "The Lord of the Rings: The Two Towers is a 2002 epic fantasy film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, Stephen Sinclair, and Jackson, based on 1954's The Two Towers, the second volume of the novel The Lord of the Rings by J. R. R. Tolkien. The sequel to 2001's The Lord of the Rings: The Fellowship of the Ring, the film is the second instalment in the Lord of the Rings trilogy. It features an ensemble cast including Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Bernard Hill, Christopher Lee, Billy Boyd, Dominic Monaghan, Orlando Bloom, Hugo Weaving, Miranda Otto, David Wenham, Brad Dourif, Karl Urban, and Andy Serkis.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Lord_Rings_Two_Towers.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Two_Towers"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "genre": "fantasy",
+    "duration": 200,
+    "release": 2003,
+    "rating": 9,
+    "summary": "The Lord of the Rings: The Return of the King is a 2003 epic fantasy film directed by Peter Jackson from a screenplay he wrote with Fran Walsh and Philippa Boyens. It is based on 1955's The Return of the King, the third volume of the novel The Lord of the Rings by J. R. R. Tolkien. The sequel to 2002's The Lord of the Rings: The Two Towers, the film is the final instalment in the Lord of the Rings trilogy. It has an ensemble cast including Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Bernard Hill, Billy Boyd, Dominic Monaghan, Orlando Bloom, Hugo Weaving, Miranda Otto, David Wenham, Karl Urban, John Noble, Andy Serkis, Ian Holm, and Sean Bean.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/48/Lord_Rings_Return_King.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Return_of_the_King"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "genre": "fantasy",
+    "duration": 152,
+    "release": 2001,
+    "rating": 7.7,
+    "summary": "Harry Potter and the Philosopher's Stone is a 2001 fantasy film directed by Chris Columbus and written by Steve Kloves, based on the 1997 novel by J. K. Rowling. It is the first instalment in the Harry Potter film series, and stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. The film follows Harry's first year at Hogwarts as he discovers that he is a famous wizard and begins his formal wizarding education.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg",
+    "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone_(film)"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "genre": "fantasy",
+    "duration": 141,
+    "release": 2004,
+    "rating": 7.9,
+    "summary": "Harry Potter and the Prisoner of Azkaban is a 2004 epic fantasy film directed by Alfonso Cuarón from a screenplay by Steve Kloves. It is based on the 1999 novel Harry Potter and the Prisoner of Azkaban by J. K. Rowling. It is the sequel to Harry Potter and the Chamber of Secrets (2002) and the third instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, alongside Rupert Grint and Emma Watson as Harry's best friends Ron Weasley and Hermione Granger, respectively. The film follows Harry's third year at Hogwarts and his quest to uncover the truth about his past, including the connection recently escaped Azkaban prisoner Sirius Black has to Harry and his deceased parents.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/18/Harry_Potter_and_the_Prisoner_of_Azkaban_film_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "genre": "fantasy",
+    "duration": 130,
+    "release": 2011,
+    "rating": 8.1,
+    "summary": "Harry Potter and the Deathly Hallows – Part 2 is a 2011 fantasy film directed by David Yates from a screenplay by Steve Kloves. It is the second of two cinematic parts based on the 2007 novel by J. K. Rowling, and the eighth and final instalment of the Harry Potter film series. The film follows Harry as he continues his quest to find and destroy Lord Voldemort's Horcruxes in order to destroy him once and for all.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg",
+    "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2"
+  },
+  {
+    "title": "Batman Begins",
+    "genre": "action",
+    "duration": 140,
+    "release": 2005,
+    "rating": 8.2,
+    "summary": "Batman Begins is a 2005 superhero film based on the DC Comics character Batman. Directed by Christopher Nolan, who co-wrote the screenplay with David S. Goyer, the film stars Christian Bale as Bruce Wayne / Batman, with Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman, Cillian Murphy, Tom Wilkinson, Rutger Hauer, Ken Watanabe, and Morgan Freeman in supporting roles. The film reboots the Batman film series, telling the origin story of Bruce Wayne (Bale) from the death of his parents to his journey to become Batman and his fight to stop Ra's al Ghul (Neeson) and the Scarecrow (Murphy) from plunging Gotham City into chaos.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/af/Batman_Begins_Poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Batman_Begins"
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "action",
+    "duration": 155,
+    "release": 2008,
+    "rating": 9,
+    "summary": "The Dark Knight is a 2008 superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan. Based on the DC Comics superhero Batman, it is the sequel to Batman Begins (2005), and the second installment in The Dark Knight trilogy. The plot follows the vigilante Batman, police lieutenant Jim Gordon, and district attorney Harvey Dent, who form an alliance to dismantle organized crime in Gotham City. Their efforts are derailed by the Joker, an anarchistic mastermind who seeks to test how far Batman will go to save the city from chaos. The cast includes Christian Bale, Michael Caine, Heath Ledger, Gary Oldman, Aaron Eckhart, Maggie Gyllenhaal, and Morgan Freeman.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Dark_Knight"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "genre": "action",
+    "duration": 164,
+    "release": 2012,
+    "rating": 8.4,
+    "summary": "The Dark Knight Rises is a 2012 superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan, and the story with David S. Goyer. Based on the DC Comics character Batman, it is the final installment in Nolan's The Dark Knight trilogy, and the sequel to The Dark Knight (2008). The film stars Christian Bale as Bruce Wayne / Batman, alongside Michael Caine, Gary Oldman, Anne Hathaway, Tom Hardy, Marion Cotillard, Joseph Gordon-Levitt, and Morgan Freeman. Set eight years after the events of The Dark Knight, it follows a retired Wayne being forced to resume his role as Batman to save Gotham City from nuclear destruction at the hands of the terrorist Bane (Hardy).",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises"
+  },
+  {
+    "title": "Mission: Impossible - Ghost Protocol",
+    "genre": "action",
+    "duration": 132,
+    "release": 2011,
+    "rating": 7.4,
+    "summary": "Mission: Impossible – Ghost Protocol is a 2011 American action spy film directed by Brad Bird from a screenplay by the writing team of Josh Appelbaum and André Nemec, who also serve as co-producers. Produced by Tom Cruise, J. J. Abrams, and Bryan Burk, it is the sequel to Mission: Impossible III (2006) and the fourth installment in the Mission: Impossible film series. The film stars Cruise, Jeremy Renner, Simon Pegg, and Paula Patton, with Michael Nyqvist, Vladimir Mashkov, Josh Holloway, Anil Kapoor, and Léa Seydoux in supporting roles. In the film, the Impossible Missions Force (IMF) is shut down after being publicly implicated in a bombing of the Kremlin, causing Ethan Hunt (Cruise) and his team to go without their usual resources or backup in a life-threatening effort to clear their names.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b5/Mission_impossible_ghost_protocol.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mission%3A_Impossible_%E2%80%93_Ghost_Protocol"
+  },
+  {
+    "title": "Mission: Impossible - Fallout",
+    "genre": "action",
+    "duration": 147,
+    "release": 2018,
+    "rating": 7.7,
+    "summary": "Mission: Impossible – Fallout is a 2018 American action spy film written and directed by Christopher McQuarrie. It is the sequel to Mission: Impossible – Rogue Nation (2015) and the sixth installment in the Mission: Impossible film series. The ensemble cast includes Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg, Rebecca Ferguson, Sean Harris, Angela Bassett, Vanessa Kirby, Michelle Monaghan, and Alec Baldwin. Set two years after the events of Rogue Nation, Fallout follows Impossible Missions Force agent Ethan Hunt (Cruise) and his team in their efforts to prevent a nuclear attack by terrorist Solomon Lane (Harris) and the mysterious extremist John Lark.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/ff/MI_%E2%80%93_Fallout.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mission%3A_Impossible_%E2%80%93_Fallout"
+  },
+  {
+    "title": "John Wick",
+    "genre": "action",
+    "duration": 101,
+    "release": 2014,
+    "rating": 7.4,
+    "summary": "John Wick is a 2014 American action thriller film directed by Chad Stahelski and written by Derek Kolstad. Keanu Reeves stars as John Wick, a legendary hitman who comes out of retirement to seek revenge against the men who killed his dog, a final gift from his recently deceased wife. The film also stars Michael Nyqvist, Alfie Allen, Adrianne Palicki, Bridget Moynahan, Dean Winters, Ian McShane, John Leguizamo, and Willem Dafoe.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",
+    "source": "https://en.wikipedia.org/wiki/John_Wick_(film)"
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "genre": "action",
+    "duration": 169,
+    "release": 2023,
+    "rating": 7.7,
+    "summary": "John Wick: Chapter 4 is a 2023 American action thriller film, directed and co-produced by Chad Stahelski and written by Shay Hatten and Michael Finch. It is the fourth installment in the John Wick film series, and the sequel to John Wick: Chapter 3 – Parabellum (2019). Keanu Reeves returns as the titular John Wick, who sets out for revenge on the High Table and those who left him for dead. Chapter 4 also features Donnie Yen, Bill Skarsgård, Laurence Fishburne, Hiroyuki Sanada, Shamier Anderson, Lance Reddick, Rina Sawayama, Scott Adkins, Clancy Brown, and Ian McShane.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/John_Wick%3A_Chapter_4"
+  },
+  {
+    "title": "Fast Five",
+    "genre": "action",
+    "duration": 131,
+    "release": 2011,
+    "rating": 7.3,
+    "summary": "Fast Five is a 2011 American action film directed by Justin Lin and written by Chris Morgan. It is the sequel to Fast & Furious (2009) and the fifth installment in the Fast & Furious franchise. The film stars Vin Diesel as Dominic Toretto and Paul Walker as Brian O'Conner, alongside Jordana Brewster, Tyrese Gibson, Gal Gadot, Ludacris, Matt Schulze, Sung Kang and Dwayne Johnson. In the film, Dom and Brian, along with Dom's sister Mia plan a heist to steal $100 million from corrupt businessman Hernan Reyes while being pursued for arrest by U.S. Diplomatic Security Service (DSS) agent Luke Hobbs.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0c/Fast_Five_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Fast_Five"
+  },
+  {
+    "title": "Furious 7",
+    "genre": "action",
+    "duration": 137,
+    "release": 2015,
+    "rating": 7.1,
+    "summary": "Furious 7 is a 2015 action film directed by James Wan and written by Chris Morgan. It is the sequel to Fast & Furious 6 (2013), a follow-up to The Fast and the Furious: Tokyo Drift (2006), and the seventh installment in the Fast & Furious franchise. The film stars an ensemble cast including Vin Diesel, Paul Walker, Dwayne Johnson, Michelle Rodriguez, Tyrese Gibson, Ludacris, Jordana Brewster, Djimon Hounsou, Kurt Russell, and Jason Statham. In the film, Dominic Toretto, Brian O'Conner, and their team are recruited by covert ops leader Mr. Nobody to prevent terrorist Mose Jakande from obtaining a hacking program known as God's Eye, all while being hunted by Deckard Shaw, the brother of Owen Shaw.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Furious_7"
+  },
+  {
+    "title": "Jurassic Park",
+    "genre": "adventure",
+    "duration": 127,
+    "release": 1993,
+    "rating": 8.2,
+    "summary": "Jurassic Park is a 1993 American science fiction thriller film directed by Steven Spielberg and written by Michael Crichton and David Koepp, based on Crichton's 1990 novel of the same name. Starring Sam Neill, Laura Dern, Jeff Goldblum, and Richard Attenborough, the film follows a group of visitors struggling to survive after sabotage disables the security systems of a dinosaur theme park on the fictional island of Isla Nublar.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+  },
+  {
+    "title": "Jurassic World",
+    "genre": "adventure",
+    "duration": 124,
+    "release": 2015,
+    "rating": 6.9,
+    "summary": "Jurassic World is a 2015 American science fiction action film directed by Colin Trevorrow, who co-wrote the screenplay with Rick Jaffa, Amanda Silver, and Derek Connolly from a story by Jaffa and Silver. It is the first installment in the Jurassic World series and the fourth installment overall in the Jurassic Park franchise, following Jurassic Park III (2001). It stars an ensemble cast including Chris Pratt, Bryce Dallas Howard, Vincent D'Onofrio, and Irrfan Khan; BD Wong reprised his role from the original Jurassic Park film. Set twenty-two years after the events of Jurassic Park, the film takes place on the same fictional island of Isla Nublar, located off the Pacific coast of Costa Rica. A successful theme park of cloned dinosaurs, dubbed Jurassic World, has operated on the island for years, bringing John Hammond's dream to fruition.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/6e/Jurassic_World_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+  },
+  {
+    "title": "Toy Story",
+    "genre": "animation",
+    "duration": 80,
+    "release": 1995,
+    "rating": 8.3,
+    "summary": "Toy Story is a 1995 American animated adventure comedy film directed by John Lasseter, and written by Joss Whedon, Andrew Stanton, Joel Cohen, and Alec Sokolow. The first entirely computer-animated feature film, as well as the first feature film produced by Pixar Animation Studios for Walt Disney Pictures, it stars the voices of Tom Hanks, Tim Allen, Annie Potts, John Ratzenberger, Don Rickles, Wallace Shawn, and Jim Varney. Set in a world in which toys come to life, Toy Story follows an old-fashioned cowboy doll named Woody (Hanks), who becomes jealous that a space cadet action figure, Buzz Lightyear (Allen), is replacing him as the favorite toy of their owner Andy.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+    "source": "https://en.wikipedia.org/wiki/Toy_Story"
+  },
+  {
+    "title": "Toy Story 3",
+    "genre": "animation",
+    "duration": 102,
+    "release": 2010,
+    "rating": 8.3,
+    "summary": "Toy Story 3 is a 2010 American animated comedy-drama film directed by Lee Unkrich and written by Michael Arndt. Produced by Pixar Animation Studios for Walt Disney Pictures, it is the third installment in the Toy Story film series and the sequel to Toy Story 2 (1999). The film features the voices of Tom Hanks, Tim Allen, Joan Cusack, Don Rickles, Wallace Shawn, John Ratzenberger, Estelle Harris, Ned Beatty, Michael Keaton, Jodi Benson, and John Morris. In the film, Andy Davis, now a teenager, is going to college. Woody, Buzz Lightyear and the other toys are accidentally donated to the Sunnyside Daycare center by Andy's mother, and the toys must decide where their loyalties lie.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/69/Toy_Story_3_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Toy_Story_3"
+  },
+  {
+    "title": "Inside Out",
+    "genre": "animation",
+    "duration": 94,
+    "release": 2015,
+    "rating": 8.1,
+    "summary": "Inside Out is a 2015 American animated coming-of-age film directed by Pete Docter who co-wrote it with Meg LeFauve and Josh Cooley. Produced by Pixar Animation Studios for Walt Disney Pictures, the film stars the voices of Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader, Lewis Black, Mindy Kaling, Kaitlyn Dias, Diane Lane, and Kyle MacLachlan. Inside Out follows the inner workings of the mind of Riley, a young girl who adapts to her family's relocation as five personified emotions administer her thoughts and actions.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Inside_Out"
+  },
+  {
+    "title": "Finding Nemo",
+    "genre": "animation",
+    "duration": 100,
+    "release": 2003,
+    "rating": 8.2,
+    "summary": "Finding Nemo is a 2003 American animated comedy-drama film directed by Andrew Stanton, who co-wrote it with Bob Peterson and David Reynolds. Produced by Pixar Animation Studios for Walt Disney Pictures, the film stars the voices of Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe, and Geoffrey Rush. It tells the story of an overprotective clownfish named Marlin (Brooks) who, along with a forgetful regal blue tang named Dory (DeGeneres), searches for his missing son Nemo (Gould). Along the way, Marlin learns to take risks and comes to terms with Nemo taking care of himself.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+    "source": "https://en.wikipedia.org/wiki/Finding_Nemo"
+  },
+  {
+    "title": "Coco",
+    "genre": "animation",
+    "duration": 109,
+    "release": 2017,
+    "rating": 8.4,
+    "summary": "Coco is a 2017 American animated fantasy film directed by Lee Unkrich, and written by Adrian Molina and Matthew Aldrich. Produced by Pixar Animation Studios for Walt Disney Pictures, the film stars the voices of Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renée Victor, Ana Ofelia Murguía and Edward James Olmos. It follows a 12-year-old boy in Mexico named Miguel (Gonzalez) who is accidentally transported to the Land of the Dead, where he seeks the help of his deceased musician great-great-grandfather to return him to his family and reverse their ban on music.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Coco_(2017_film)"
+  },
+  {
+    "title": "Shrek",
+    "genre": "animation",
+    "duration": 90,
+    "release": 2001,
+    "rating": 7.9,
+    "summary": "Shrek is a 2001 American animated fantasy comedy film directed by Andrew Adamson and Vicky Jenson, and written by Ted Elliott, Terry Rossio, Joe Stillman, and Roger S. H. Schulman, loosely based on the 1990 children's picture book Shrek! by William Steig. It is the first installment in the Shrek film series, and stars Mike Myers, Eddie Murphy, Cameron Diaz and John Lithgow. In the film, an embittered ogre named Shrek finds his home in the swamp overrun by fairy tale creatures banished by the obsessive ruler Lord Farquaad (Lithgow). With the help of Donkey (Murphy), Shrek makes a pact with Farquaad to rescue Princess Fiona (Diaz) in exchange for regaining control of his swamp.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/7b/Shrek_%282001_animated_feature_film%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shrek"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "genre": "animation",
+    "duration": 116,
+    "release": 2018,
+    "rating": 8.4,
+    "summary": "Spider-Man: Into the Spider-Verse is a 2018 American animated superhero film based on the Marvel Comics character Spider-Man. Directed by Bob Persichetti, Peter Ramsey and Rodney Rothman from a screenplay by Phil Lord and Rothman, it is the first animated film in the Spider-Man franchise. Shameik Moore stars as the voice of Miles Morales, with Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry, Lily Tomlin, Luna Lauren Vélez, Zoë Kravitz, John Mulaney, Kimiko Glenn, Nicolas Cage, Kathryn Hahn, and Liev Schreiber in supporting voice roles. The film's story follows Miles as he becomes the new Spider-Man and teams up with other Spider-People from various parallel universes to save his universe from the Kingpin. It was produced by Columbia Pictures and Sony Pictures Animation in association with Marvel Entertainment.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fa/Spider-Man_Into_the_Spider-Verse_poster.png",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man%3A_Into_the_Spider-Verse"
+  },
+  {
+    "title": "Frozen",
+    "genre": "animation",
+    "duration": 101,
+    "release": 2013,
+    "rating": 7.4,
+    "summary": "Frozen is a 2013 American animated musical fantasy film produced by Walt Disney Animation Studios, loosely inspired by Hans Christian Andersen's 1844 fairy tale \"The Snow Queen\". Directed by Chris Buck and Jennifer Lee and written by Lee, it stars the voices of Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, and Santino Fontana. The film follows Anna (Bell), the princess of Arendelle, who sets off on a journey with the iceman Kristoff (Groff), his reindeer Sven, and the snowman Olaf (Gad), to find her estranged sister Elsa (Menzel) after she accidentally traps their kingdom in eternal winter with her icy powers.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Frozen_(2013_film)"
+  },
+  {
+    "title": "Spirited Away",
+    "genre": "animation",
+    "duration": 125,
+    "release": 2001,
+    "rating": 8.6,
+    "summary": "Spirited Away is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki. It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho. The film stars Rumi Hiiragi, alongside Miyu Irino, Mari Natsuki, Takashi Naito, Yasuko Sawaguchi, Tsunehiko Kamijō, Takehiko Ono, and Bunta Sugawara. It follows a young girl named Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami. After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png",
+    "source": "https://en.wikipedia.org/wiki/Spirited_Away"
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "genre": "adventure",
+    "duration": 137,
+    "release": 2003,
+    "rating": 8.1,
+    "summary": "Pirates of the Caribbean: The Curse of the Black Pearl is a 2003 American swashbuckler film directed by Gore Verbinski. Produced by Jerry Bruckheimer and distributed by Buena Vista Pictures via the Walt Disney Pictures label, the film is based on the Pirates of the Caribbean attraction at Disney theme parks and is the first film in the Pirates of the Caribbean series. Starring Johnny Depp, Geoffrey Rush, Orlando Bloom, and Keira Knightley, it follows pirate Jack Sparrow (Depp) and blacksmith Will Turner (Bloom), as they attempt to rescue the kidnapped Elizabeth Swann (Knightley). The trio encounters Captain Hector Barbossa (Rush) and the Black Pearl crew who are afflicted by a supernatural curse.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png",
+    "source": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean%3A_The_Curse_of_the_Black_Pearl"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "genre": "adventure",
+    "duration": 115,
+    "release": 1981,
+    "rating": 8.4,
+    "summary": "Raiders of the Lost Ark is a 1981 American action-adventure film directed by Steven Spielberg and written by Lawrence Kasdan, based on a story by George Lucas and Philip Kaufman. Set in 1936, the film stars Harrison Ford as Indiana Jones, a globetrotting archaeologist vying with Nazi German forces to recover the long-lost Ark of the Covenant which is said to make an army invincible. Teaming up with his tough former romantic interest Marion Ravenwood, Jones races to stop a rival archaeologist, René Belloq, from guiding the Nazis to the Ark and its power.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Raiders_of_the_Lost_Ark.jpg",
+    "source": "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark"
+  },
+  {
+    "title": "Back to the Future",
+    "genre": "sci-fi",
+    "duration": 115,
+    "release": 1985,
+    "rating": 8.5,
+    "summary": "Back to the Future is a 1985 American science fiction film directed by Robert Zemeckis and written by Zemeckis and Bob Gale. It stars Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover, and Thomas F. Wilson. Set in 1985, it follows Marty McFly (Fox), a teenager accidentally sent back to 1955 in a time-traveling DeLorean automobile built by his eccentric scientist friend Emmett \"Doc\" Brown (Lloyd), where he inadvertently prevents his future parents from falling in love – threatening his own existence – and is forced to reconcile them and somehow get back to the future.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg",
+    "source": "https://en.wikipedia.org/wiki/Back_to_the_Future"
+  },
+  {
+    "title": "Alien",
+    "genre": "horror",
+    "duration": 117,
+    "release": 1979,
+    "rating": 8.5,
+    "summary": "Alien is a 1979 science fiction horror film directed by Ridley Scott and written by Dan O'Bannon, based on a story by O'Bannon and Ronald Shusett. It follows a commercial starship crew who investigate a derelict space vessel and are hunted by a deadly extraterrestrial creature. The film stars Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt, Ian Holm, and Yaphet Kotto. It was produced by Gordon Carroll, David Giler, and Walter Hill through their company Brandywine Productions and was distributed by 20th Century-Fox. Giler and Hill revised and made additions to the script; Shusett was the executive producer. The alien creatures and environments were designed by the Swiss artist H. R. Giger, while the concept artists Ron Cobb and Chris Foss designed the other sets.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Alien_(film)"
+  },
+  {
+    "title": "Aliens",
+    "genre": "sci-fi",
+    "duration": 137,
+    "release": 1986,
+    "rating": 8.4,
+    "summary": "Aliens is a 1986 science fiction action film written and directed by James Cameron. It is the sequel to the 1979 science fiction horror film Alien, and the second film in the Alien franchise. Set in the far future, it stars Sigourney Weaver as Ellen Ripley, the sole survivor of an alien attack on her ship. When communications are lost with a human colony on the moon where her crew first encountered the alien creatures, Ripley agrees to return to the site with a unit of Colonial Marines to investigate. Michael Biehn, Paul Reiser, Lance Henriksen, and Carrie Henn are featured in supporting roles.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Aliens_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Aliens_(film)"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "genre": "sci-fi",
+    "duration": 137,
+    "release": 1991,
+    "rating": 8.6,
+    "summary": "Terminator 2: Judgment Day is a 1991 American science fiction action film directed by James Cameron, who co-wrote the script with William Wisher. Starring Arnold Schwarzenegger, Linda Hamilton, and Robert Patrick, it is the sequel to The Terminator (1984) and is the second installment in the Terminator franchise. In the film, the malevolent artificial intelligence Skynet sends a Terminator—a highly advanced killing machine—back in time to 1995 to kill the future leader of the human resistance, John Connor, when he is a child. The resistance sends back a less advanced, reprogrammed Terminator to protect Connor and ensure the future of humanity.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/5e/Terminator_2-Judgment_Day.png",
+    "source": "https://en.wikipedia.org/wiki/Terminator_2%3A_Judgment_Day"
+  },
+  {
+    "title": "The Matrix",
+    "genre": "sci-fi",
+    "duration": 136,
+    "release": 1999,
+    "rating": 8.7,
+    "summary": "The Matrix is a 1999 science fiction–action film written and directed by the Wachowskis. The first installment in the Matrix film series, it stars Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano. The film follows a disillusioned computer hacker Neo (Reeves) who discovers that the life he knows is an elaborate deception created by intelligent machines. He is recruited by underground insurgents Morpheus (Fishburne) and Trinity (Moss), to join the rebellion against the machines.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Matrix.png",
+    "source": "https://en.wikipedia.org/wiki/The_Matrix"
+  },
+  {
+    "title": "Die Hard",
+    "genre": "action",
+    "duration": 131,
+    "release": 1988,
+    "rating": 8.2,
+    "summary": "Die Hard is a 1988 American action film directed by John McTiernan and written by Jeb Stuart and Steven E. de Souza, based on the 1979 novel Nothing Lasts Forever by Roderick Thorp. It stars Bruce Willis, Alan Rickman, Alexander Godunov, and Bonnie Bedelia, with Reginald VelJohnson, William Atherton, Paul Gleason, and Hart Bochner in supporting roles. Die Hard follows a New York City police detective, John McClane (Willis), who becomes entangled in a terrorist takeover of a Los Angeles skyscraper while visiting his estranged wife during a Christmas Eve party.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/c/ca/Die_Hard_%281988_film%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Die_Hard"
+  },
+  {
+    "title": "Rocky",
+    "genre": "drama",
+    "duration": 119,
+    "release": 1976,
+    "rating": 8.1,
+    "summary": "Rocky is a 1976 American sports drama film directed by John G. Avildsen and written by and starring Sylvester Stallone. It is the first installment in the Rocky film series and also stars Talia Shire, Burt Young, Carl Weathers, and Burgess Meredith. In the film, Rocky Balboa (Stallone), a poor small-time club fighter and loanshark debt collector from Philadelphia, gets an unlikely once in a lifetime shot at the world heavyweight championship held by Apollo Creed (Weathers).",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/18/Rocky_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Rocky"
+  },
+  {
+    "title": "The Godfather",
+    "genre": "crime",
+    "duration": 175,
+    "release": 1972,
+    "rating": 9.2,
+    "summary": "The Godfather is a 1972 American epic gangster film directed by Francis Ford Coppola, who co-wrote the screenplay with Mario Puzo based on Puzo's best-selling 1969 novel. The film features an ensemble cast that includes Marlon Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte and Diane Keaton. It is the first installment in The Godfather trilogy, which chronicles the Corleone family under patriarch Vito Corleone (Brando) and the transformation of his youngest son, Michael Corleone (Pacino), from reluctant family outsider to ruthless Mafia boss.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Godfather"
+  },
+  {
+    "title": "The Godfather Part II",
+    "genre": "crime",
+    "duration": 202,
+    "release": 1974,
+    "rating": 9,
+    "summary": "The Godfather Part II is a 1974 American epic gangster film produced and directed by Francis Ford Coppola, loosely based on the 1969 novel The Godfather by Mario Puzo, who co-wrote the screenplay with Coppola. It is both a sequel and a prequel to the 1972 film The Godfather, presenting two parallel dramas: one picks up the 1958 story of Michael Corleone, the new Don of the Corleone family, protecting the family business in the aftermath of an attempt on his life; the other covers the journey of his father, Vito Corleone, from his Sicilian childhood to the founding of his family enterprise in New York City. The ensemble cast also features Robert Duvall, Diane Keaton, Talia Shire, Morgana King, John Cazale, Marianna Hill and Lee Strasberg.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Godfather_Part_II"
+  },
+  {
+    "title": "The Hunger Games",
+    "genre": "sci-fi",
+    "duration": 142,
+    "release": 2012,
+    "rating": 7.2,
+    "summary": "The Hunger Games is a 2012 American dystopian film directed by Gary Ross, who co-wrote the screenplay with Suzanne Collins and Billy Ray, based on the 2008 novel of the same name by Collins. It is the first installment in The Hunger Games film series. The film stars Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks, Lenny Kravitz, Stanley Tucci, and Donald Sutherland. In the film, Katniss Everdeen (Lawrence) and Peeta Mellark (Hutcherson) are forced to compete in the Hunger Games, an elaborate televised fight to the death consisting of adolescent contestants.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Hunger_Games_(film)"
+  },
+  {
+    "title": "Dune",
+    "genre": "sci-fi",
+    "duration": 155,
+    "release": 2021,
+    "rating": 8,
+    "summary": "Dune is a 2021 American epic space opera film co-produced and directed by Denis Villeneuve, who co-wrote the screenplay with Jon Spaihts and Eric Roth. It is the first of a two-part adaptation of the 1965 novel by Frank Herbert and the first installment in Villeneuve's Dune film trilogy. The cast includes Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Josh Brolin, Stellan Skarsgård, Dave Bautista, Stephen McKinley Henderson, Zendaya, Chang Chen, Sharon Duncan-Brewster, Charlotte Rampling, Jason Momoa, and Javier Bardem. Set in the distant future, the film follows Paul Atreides (Chalamet) as his family, the aristocratic House Atreides, is thrust into a war for the inhospitable desert planet Arrakis.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+  },
+  {
+    "title": "Dune: Part Two",
+    "genre": "sci-fi",
+    "duration": 165,
+    "release": 2024,
+    "rating": 8.5,
+    "summary": "Dune: Part Two is a 2024 American epic space opera film directed by Denis Villeneuve, from a screenplay he wrote with Jon Spaihts. A sequel to Dune (2021), it is the second film in a two-part adaptation of Frank Herbert's 1965 science fiction novel Dune, and is the second of a trilogy of films developed by Legendary Pictures. Timothée Chalamet leads an ensemble cast as Paul Atreides, an exiled monarch who allies with the Fremen to overthrow House Harkonnen as part of a quest to become a messianic figure. Villeneuve produced Dune: Part Two with his wife and business partner Tanya Lapointe, Mary Parent and Cale Boyter of Legendary Pictures, and Patrick McCormick. Funding came from a distribution agreement between Legendary and Warner Bros. Pictures, as well as tax subsidies from Hungarian, Jordanian, and Abu Dhabi governments.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/52/Dune_Part_Two_poster.jpeg",
+    "source": "https://en.wikipedia.org/wiki/Dune%3A_Part_Two"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "genre": "action",
+    "duration": 120,
+    "release": 2015,
+    "rating": 8.1,
+    "summary": "Mad Max: Fury Road is a 2015 Australian post-apocalyptic action film co-written, co-produced and directed by George Miller, who collaborated with Brendan McCarthy and Nico Lathouris on the screenplay. The fourth instalment in the Mad Max franchise, it was produced by Village Roadshow Pictures and Kennedy Miller Mitchell, and distributed by Roadshow Entertainment in Australia and by Warner Bros. Pictures internationally. The film stars Tom Hardy and Charlize Theron, with Nicholas Hoult, Hugh Keays-Byrne, Josh Helman, Nathan Jones, Rosie Huntington-Whiteley, Riley Keough, Zoë Kravitz, Abbey Lee, and Courtney Eaton.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mad_Max%3A_Fury_Road"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "genre": "sci-fi",
+    "duration": 164,
+    "release": 2017,
+    "rating": 8,
+    "summary": "Blade Runner 2049 is a 2017 American science fiction thriller film directed by Denis Villeneuve from a screenplay by Hampton Fancher and Michael Green, based on a story by Fancher. A sequel to Blade Runner (1982), the film stars Ryan Gosling and Harrison Ford, with Ana de Armas, Sylvia Hoeks, Robin Wright, Mackenzie Davis, Dave Bautista, and Jared Leto in supporting roles. Ford and Edward James Olmos reprise their roles from the previous film as Rick Deckard and Gaff, respectively. Gosling plays K, a \"blade runner\" who uncovers a secret that threatens to destabilize society and the course of civilization.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png",
+    "source": "https://en.wikipedia.org/wiki/Blade_Runner_2049"
+  },
+  {
+    "title": "Interstellar",
+    "genre": "sci-fi",
+    "duration": 169,
+    "release": 2014,
+    "rating": 8.7,
+    "summary": "Interstellar is a 2014 epic science fiction drama film directed by Christopher Nolan, who co-wrote the screenplay with his brother, Jonathan Nolan. It features an ensemble cast led by Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, and Michael Caine. Set in a dystopian future where Earth is suffering from catastrophic blight and famine, the film follows a group of astronauts who travel through space in search of a new home for humanity.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Interstellar_(film)"
+  },
+  {
+    "title": "Inception",
+    "genre": "sci-fi",
+    "duration": 148,
+    "release": 2010,
+    "rating": 8.8,
+    "summary": "Inception is a 2010 science fiction heist film written and directed by Christopher Nolan, who also produced it with his wife Emma Thomas. The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating his targets' subconscious. He is offered a chance to have his criminal history erased as payment for implanting an idea into a target's subconscious. The ensemble cast includes Ken Watanabe, Joseph Gordon-Levitt, Marion Cotillard, Elliot Page, Tom Hardy, Cillian Murphy, Tom Berenger, Dileep Rao, and Michael Caine.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Inception"
+  },
+  {
+    "title": "Avatar",
+    "genre": "sci-fi",
+    "duration": 162,
+    "release": 2009,
+    "rating": 7.9,
+    "summary": "Avatar is a 2009 epic science fiction film written and directed by James Cameron. It features an ensemble cast including Sam Worthington, Zoe Saldaña, Stephen Lang, Michelle Rodriguez, and Sigourney Weaver. It is the first installment in the Avatar film series. It is set in the mid-22nd century, when humans are colonizing Pandora, a lush habitable moon, in order to mine the valuable mineral unobtanium. The expansion of the mining colony threatens the existence of a local tribe of Na'vi, a humanoid species indigenous to Pandora. The title of the film refers to an \"avatar\", which is a genetically engineered Na'vi body remotely operated from the brain of a human, and which is used to interact with the Na'vi.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Avatar_(2009_film)"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "genre": "action",
+    "duration": 130,
+    "release": 2022,
+    "rating": 8.2,
+    "summary": "Top Gun: Maverick is a 2022 American action drama film directed by Joseph Kosinski and written by Ehren Kruger, Eric Warren Singer, and Christopher McQuarrie, from a story by Peter Craig and Justin Marks. It is the sequel to the 1986 film Top Gun, with Tom Cruise reprising his starring role as the naval aviator Pete \"Maverick\" Mitchell. The ensemble cast also features Miles Teller, Jennifer Connelly, Jon Hamm, Glen Powell, Monica Barbaro, Lewis Pullman, Ed Harris, and Val Kilmer. The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Top_Gun%3A_Maverick"
+  },
+  {
+    "title": "Gladiator",
+    "genre": "action",
+    "duration": 155,
+    "release": 2000,
+    "rating": 8.5,
+    "summary": "Gladiator is a 2000 epic action adventure drama film directed by Ridley Scott and written by David Franzoni, John Logan, and William Nicholson from a story by Franzoni. It stars Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Derek Jacobi, Djimon Hounsou, and Richard Harris. Crowe portrays Maximus Decimus Meridius, a Roman general who is betrayed when Commodus, the ambitious son of Emperor Marcus Aurelius, murders his father and seizes the throne. Reduced to a slave, Maximus becomes a gladiator and rises through the ranks of the arena, determined to avenge the murders of his family and the emperor.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png",
+    "source": "https://en.wikipedia.org/wiki/Gladiator_(2000_film)"
+  },
+  {
+    "title": "Oppenheimer",
+    "genre": "drama",
+    "duration": 180,
+    "release": 2023,
+    "rating": 8.3,
+    "summary": "Oppenheimer is a 2023 biographical film written, co-produced, and directed by Christopher Nolan. It follows the life of J. Robert Oppenheimer, the American theoretical physicist who led the development of the first nuclear weapons during World War II. Based on the 2005 biography American Prometheus by Kai Bird and Martin J. Sherwin, the film dramatizes Oppenheimer's studies, his direction of the Los Alamos Laboratory and his 1954 security hearing. Cillian Murphy stars as Oppenheimer, alongside an ensemble supporting cast that includes Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh, Josh Hartnett, Casey Affleck, Rami Malek, and Kenneth Branagh.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+    "source": "https://en.wikipedia.org/wiki/Oppenheimer_(film)"
+  },
+  {
+    "title": "Barbie",
+    "genre": "comedy",
+    "duration": 114,
+    "release": 2023,
+    "rating": 6.8,
+    "summary": "Barbie is a 2023 satirical fantasy comedy film directed by Greta Gerwig from a screenplay she wrote with her husband, Noah Baumbach. Based on the fashion dolls by Mattel, it is the first live-action Barbie film after numerous animated films and specials. Starring Margot Robbie as the title character and Ryan Gosling as Ken, the film follows them on a journey of self-discovery through Barbieland and the real world following an existential crisis. The supporting cast includes America Ferrera, Michael Cera, Kate McKinnon, Issa Rae, Rhea Perlman, and Will Ferrell.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Barbie_(film)"
+  },
+  {
+    "title": "Titanic",
+    "genre": "romance",
+    "duration": 194,
+    "release": 1997,
+    "rating": 7.9,
+    "summary": "Titanic is a 1997 American historical romance film written and directed by James Cameron. Incorporating both historical and fictional aspects, it is based on accounts of the sinking of RMS Titanic in 1912. Leonardo DiCaprio and Kate Winslet star as members of different social classes who fall in love during the ship's ill-fated maiden voyage. The ensemble cast includes Billy Zane, Kathy Bates, Frances Fisher, Bernard Hill, Jonathan Hyde, Danny Nucci, David Warner and Bill Paxton.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png",
+    "source": "https://en.wikipedia.org/wiki/Titanic_(1997_film)"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "genre": "drama",
+    "duration": 142,
+    "release": 1994,
+    "rating": 9.3,
+    "summary": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption. The film tells the story of banker Andy Dufresne, who is sentenced to life in Shawshank State Penitentiary for the murders of his wife and her lover, despite his claims of innocence. Over the following two decades, he befriends a fellow prisoner, contraband smuggler Ellis \"Red\" Redding, and becomes instrumental in a money laundering operation led by the prison warden Samuel Norton. William Sadler, Clancy Brown, Gil Bellows, and James Whitmore appear in supporting roles.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Shawshank_Redemption"
+  },
+  {
+    "title": "Forrest Gump",
+    "genre": "drama",
+    "duration": 142,
+    "release": 1994,
+    "rating": 8.8,
+    "summary": "Forrest Gump is a 1994 American comedy-drama film directed by Robert Zemeckis. An adaptation of the 1986 novel of the same name by Winston Groom, the film's screenplay was written by Eric Roth. It stars Tom Hanks in the title role, alongside Robin Wright, Gary Sinise, Mykelti Williamson, and Sally Field in lead roles. The film follows the life of an Alabama man named Forrest Gump (Hanks) and his experiences in the 20th-century United States.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Forrest_Gump"
+  },
+  {
+    "title": "Whiplash",
+    "genre": "drama",
+    "duration": 106,
+    "release": 2014,
+    "rating": 8.5,
+    "summary": "Whiplash is a 2014 American psychological drama film written and directed by Damien Chazelle, and starring Miles Teller, J. K. Simmons, and Paul Reiser. It focuses on an ambitious music student and aspiring jazz drummer (Teller), who is pushed to his limit by his abusive instructor (Simmons).",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Whiplash_(2014_film)"
+  },
+  {
+    "title": "La La Land",
+    "genre": "romance",
+    "duration": 128,
+    "release": 2016,
+    "rating": 8,
+    "summary": "La La Land is a 2016 American musical romantic comedy drama film written and directed by Damien Chazelle. It stars Ryan Gosling and Emma Stone as a struggling jazz pianist and an aspiring actress who meet and fall in love while pursuing their dreams in Los Angeles. The supporting cast includes John Legend, Rosemarie DeWitt, Finn Wittrock, and J. K. Simmons.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png",
+    "source": "https://en.wikipedia.org/wiki/La_La_Land"
+  },
+  {
+    "title": "The Notebook",
+    "genre": "romance",
+    "duration": 123,
+    "release": 2004,
+    "rating": 7.8,
+    "summary": "The Notebook is a 2004 American romantic drama film directed by Nick Cassavetes, from a screenplay by Jeremy Leven and Jan Sardi, and based on the 1996 novel by Nicholas Sparks. The film stars Ryan Gosling and Rachel McAdams as a young couple who fall in love in the 1940s. Their story is read from a notebook in the modern day by an elderly man telling the tale to a fellow nursing home resident.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/86/Posternotebook.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Notebook"
+  },
+  {
+    "title": "Pride & Prejudice",
+    "genre": "romance",
+    "duration": 127,
+    "release": 2005,
+    "rating": 7.8,
+    "summary": "Pride & Prejudice is a 2005 period romance film directed by Joe Wright, in his feature directorial debut, based on the 1813 novel by Jane Austen. The film features five sisters from an English family of landed gentry as they deal with issues of marriage, morality, and misconceptions. Keira Knightley stars as Elizabeth Bennet, while Matthew Macfadyen plays Mr Darcy, who falls in love with her.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/Prideandprejudiceposter.jpg",
+    "source": "https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film)"
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "genre": "romance",
+    "duration": 116,
+    "release": 2018,
+    "rating": 6.9,
+    "summary": "Crazy Rich Asians is a 2018 American romantic comedy drama film directed by Jon M. Chu from a screenplay by Peter Chiarelli and Adele Lim, based on the 2013 novel by Kevin Kwan. The film stars Constance Wu, Henry Golding, Gemma Chan, Lisa Lu, Awkwafina, Ken Jeong, and Michelle Yeoh. It follows a Chinese American professor, Rachel, who travels to Singapore with her boyfriend Nick and is shocked to discover that Nick's family is one of the richest families in Singapore.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/ba/Crazy_Rich_Asians_poster.png",
+    "source": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians"
+  },
+  {
+    "title": "Superbad",
+    "genre": "comedy",
+    "duration": 114,
+    "release": 2007,
+    "rating": 7.6,
+    "summary": "Superbad is a 2007 American coming-of-age teen buddy comedy film directed by Greg Mottola, written by Seth Rogen and Evan Goldberg, and produced by Judd Apatow. It stars Jonah Hill and Michael Cera as Seth and Evan, two teenagers about to graduate from high school. Before graduating, the boys want to party and lose their virginity, but their plan proves harder than expected. Christopher Mintz-Plasse, Rogen, Bill Hader, Martha MacIsaac, and Emma Stone provide supporting roles.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/Superbad_Poster.png",
+    "source": "https://en.wikipedia.org/wiki/Superbad"
+  },
+  {
+    "title": "The Hangover",
+    "genre": "comedy",
+    "duration": 100,
+    "release": 2009,
+    "rating": 7.7,
+    "summary": "The Hangover is a 2009 American comedy film directed by Todd Phillips, and written by Jon Lucas and Scott Moore. It is the first installment in The Hangover trilogy. The film stars Bradley Cooper, Ed Helms, Zach Galifianakis, Heather Graham, Justin Bartha, and Jeffrey Tambor. It tells the story of Phil Wenneck (Cooper), Stu Price (Helms), Alan Garner (Galifianakis), and Doug Billings (Bartha), who travel to Las Vegas for a bachelor party to celebrate the latter's impending marriage. However, Phil, Stu, and Alan wake up with Doug missing and no memory of the previous night's events, and must find their friend before the wedding can take place.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b9/Hangoverposter09.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Hangover"
+  },
+  {
+    "title": "Bridesmaids",
+    "genre": "comedy",
+    "duration": 125,
+    "release": 2011,
+    "rating": 6.8,
+    "summary": "Bridesmaids is a 2011 American comedy film directed by Paul Feig from a screenplay by Annie Mumolo and Kristen Wiig. It stars Wiig as a woman who experiences a series of misfortunes after being asked to serve as maid of honor for her best friend, played by Maya Rudolph. The cast also features Rose Byrne, Wendi McLendon-Covey, Ellie Kemper, Melissa McCarthy, and Chris O'Dowd.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/BridesmaidsPoster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bridesmaids_(2011_film)"
+  },
+  {
+    "title": "Pulp Fiction",
+    "genre": "crime",
+    "duration": 154,
+    "release": 1994,
+    "rating": 8.9,
+    "summary": "Pulp Fiction is a 1994 American crime film written and directed by Quentin Tarantino from a story he conceived with Roger Avary. It tells four intertwining tales of crime and violence in Los Angeles. The film stars John Travolta, Samuel L. Jackson, Bruce Willis, Tim Roth, Ving Rhames, and Uma Thurman. The title refers to the pulp magazines and hardboiled crime novels popular during the mid-twentieth century, known for their graphic violence and punchy dialogue.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Pulp_Fiction"
+  },
+  {
+    "title": "Knives Out",
+    "genre": "crime",
+    "duration": 130,
+    "release": 2019,
+    "rating": 7.9,
+    "summary": "Knives Out is a 2019 American mystery film written and directed by Rian Johnson. The film's eleven-actor ensemble cast is led by Daniel Craig as Benoit Blanc, a famed private detective who is summoned to investigate the death of a bestselling author. Police think his death is a suicide but Blanc suspects foul play and investigates to ascertain the true cause of it. Johnson produced Knives Out with his longtime collaborator Ram Bergman. Funding came from MRC and tax subsidies from the Massachusetts state government.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/Knives_Out_poster.jpeg",
+    "source": "https://en.wikipedia.org/wiki/Knives_Out"
+  },
+  {
+    "title": "Parasite",
+    "genre": "thriller",
+    "duration": 132,
+    "release": 2019,
+    "rating": 8.5,
+    "summary": "Parasite is a 2019 South Korean black comedy thriller film directed by Bong Joon Ho, who co-wrote the screenplay with Han Jin-won. It stars Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin, Park Myung-hoon, and Lee Jung-eun. The film follows a poor family who infiltrate the home and life of a wealthy family.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png",
+    "source": "https://en.wikipedia.org/wiki/Parasite_(2019_film)"
+  },
+  {
+    "title": "Seven",
+    "genre": "thriller",
+    "duration": 127,
+    "release": 1995,
+    "rating": 8.6,
+    "summary": "Seven is a 1995 American crime thriller film directed by David Fincher and written by Andrew Kevin Walker. It stars Brad Pitt and Morgan Freeman, with Gwyneth Paltrow and John C. McGinley in supporting roles. Set in an unnamed, crime-ridden city, the narrative follows disenchanted, nearly retired Detective Lieutenant William Somerset (Freeman) and his newly transferred partner David Mills (Pitt) as they try to stop a serial killer from committing a series of murders based on the seven deadly sins.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Seven_(1995_film)"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "genre": "thriller",
+    "duration": 118,
+    "release": 1991,
+    "rating": 8.6,
+    "summary": "The Silence of the Lambs is a 1991 American psychological horror thriller film directed by Jonathan Demme and written by Ted Tally, adapted from Thomas Harris's 1988 novel. It stars Jodie Foster as Clarice Starling, a young FBI trainee who is hunting a serial killer known as \"Buffalo Bill\", who skins his female victims. To catch him, she seeks the advice of the imprisoned Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial murderer. The film also features performances by Scott Glenn, Anthony Heald, and Kasi Lemmons.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)"
+  },
+  {
+    "title": "Gone Girl",
+    "genre": "thriller",
+    "duration": 149,
+    "release": 2014,
+    "rating": 8.1,
+    "summary": "Gone Girl is a 2014 American psychological thriller film directed by David Fincher and written by Gillian Flynn, based on her 2012 novel. It stars Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry, and Carrie Coon in her film debut. Affleck plays Nick Dunne, a writing teacher who becomes the prime suspect following the disappearance of his wife, Amy (Pike), in Missouri.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Gone_Girl_Poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Gone_Girl_(film)"
+  },
+  {
+    "title": "Get Out",
+    "genre": "horror",
+    "duration": 104,
+    "release": 2017,
+    "rating": 7.7,
+    "summary": "Get Out is a 2017 American psychological horror film written, co-produced, and directed by Jordan Peele in his directorial debut. It stars Daniel Kaluuya, Allison Williams, Lil Rel Howery, LaKeith Stanfield, Bradley Whitford, Caleb Landry Jones, Stephen Root, Catherine Keener, and Betty Gabriel. The plot follows a young black man (Kaluuya), who uncovers shocking secrets when he meets the family of his white girlfriend (Williams).",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+    "source": "https://en.wikipedia.org/wiki/Get_Out"
+  },
+  {
+    "title": "The Conjuring",
+    "genre": "horror",
+    "duration": 112,
+    "release": 2013,
+    "rating": 7.5,
+    "summary": "The Conjuring is a 2013 American supernatural horror film directed by James Wan and written by Chad Hayes and Carey W. Hayes. It is the inaugural film in The Conjuring Universe franchise. Patrick Wilson and Vera Farmiga star as Ed and Lorraine Warren, paranormal investigators and authors associated with prominent cases of haunting. Their purportedly real-life reports inspired The Amityville Horror story and the associated film franchise. The Warrens come to the assistance of the Perron family, who experienced increasingly disturbing events in their newly occupied farmhouse in Rhode Island in 1971.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Conjuring_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/The_Conjuring"
+  },
+  {
+    "title": "A Quiet Place",
+    "genre": "horror",
+    "duration": 90,
+    "release": 2018,
+    "rating": 7.5,
+    "summary": "A Quiet Place is a 2018 American post-apocalyptic horror film directed by John Krasinski, from a screenplay co-written by Scott Beck and Bryan Woods and Krasinski based on a story Beck and Woods conceived.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png",
+    "source": "https://en.wikipedia.org/wiki/A_Quiet_Place"
+  },
+  {
+    "title": "Scream",
+    "genre": "horror",
+    "duration": 111,
+    "release": 1996,
+    "rating": 7.4,
+    "summary": "Scream is a 1996 American slasher film directed by Wes Craven and written by Kevin Williamson. It stars David Arquette, Neve Campbell, Courteney Cox, Matthew Lillard, Rose McGowan, Skeet Ulrich, and Drew Barrymore. Set in the fictional town of Woodsboro, California, the plot follows high school student Sidney Prescott (Campbell) and her friends as they become the targets of a costumed serial killer on the anniversary of her mother's murder.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/86/Scream_%281996_film%29_poster.jpg",
+    "source": "https://en.wikipedia.org/wiki/Scream_(1996_film)"
+  }
+]

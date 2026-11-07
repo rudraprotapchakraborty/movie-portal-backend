@@ -1,64 +1,56 @@
-# Movie Portal - Server
+# Movie Portal · API
 
-This is the backend API for the Movie Portal application, which serves as the engine for managing movies, user favorites, and handling CRUD (Create, Read, Update, Delete) operations. It provides all the necessary endpoints for the frontend to interact with the movie data and user-specific actions.
-
-## Live Site URL
-https://movie-portal-server-two-pink.vercel.app/
+REST API for the [Movie Portal](https://github.com/rudraprotapchakraborty/movie-portal-frontend). Express 5, TypeScript, MongoDB (Mongoose) and Zod.
 
 ## Features
-- **Manage Movies:** Admins can add, delete, and update movie entries.
-- **User Favorites:** Users can add movies to their favorites list and retrieve their list of favorites.
-- **Authentication:** Secure login system for users to manage their accounts and favorites.
-- **RESTful API Endpoints:** A simple and clean REST API for interacting with the server.
-- **MongoDB Database Support:** This backend is compatible with MongoDB for NoSQL or MySQL/PostgreSQL for SQL databases.
 
----
+- Public catalogue with search, genre filter, sorting and pagination
+- Movies belong to the person who added them: only the owner (or an admin) can edit or delete. Fields are validated, unknown fields are ignored, so nobody can fake an owner
+- Favorites: one per person per movie (enforced by a unique index), deleted automatically with the movie or the account
+- Auth: email and password with a six digit email code (HMAC-hashed, 10 minute expiry, 5 attempts, 60 second resend), Google ID-token sign-in, forgot and reset password
+- Account: change name and photo, password, email (code sent to the new address), delete account with confirmation
+- Roles `USER` and `ADMIN`, with member management and statistics for admins
+- Newsletter sign-up with its own rate limit
+- Shared demo accounts that are locked down: no sign-in or profile changes, no deletion, cannot touch the sample catalogue, and a demo admin only sees demo data
+- Helmet, CORS allow list, rate limits, and the JWT is checked against the database on each request so blocks and role changes apply immediately
 
-## API Endpoints
+## Run it locally
 
-### **Movies**
-- **GET** `/movies`: Retrieve a list of all movies.
-  - Response: A list of movies with details like title, description, and ratings.
-  
-- **GET** `/movie/{id}`: Retrieve detailed information about a specific movie.
-  - URL Params: `id` (The unique movie identifier)
-  - Response: Detailed information about the movie.
-  
-- **POST** `/movie`: Add a new movie to the database.
-  - Body: JSON with movie details (e.g., title, description, genre, etc.)
-  - Example: 
-    ```json
-    {
-      "title": "Inception",
-      "description": "A mind-bending thriller about dreams within dreams.",
-      "genre": "Sci-Fi",
-      "releaseDate": "2010-07-16"
-    }
-    ```
-  
-- **DELETE** `/movie/{id}`: Delete a movie from the database.
-  - URL Params: `id` (The movie identifier to delete)
+```bash
+npm install
+cp .env.example .env     # fill in the values
+npm run dev              # http://localhost:5000
+npm run seed             # sample catalogue and demo accounts
+```
 
-### **Favorites**
-- **POST** `/favorites`: Add a movie to the user's favorites.
-  - Body: JSON with the user ID and movie ID to add to favorites.
-  - Example:
-    ```json
-    {
-      "userId": "12345",
-      "movieId": "67890"
-    }
-    ```
+`npm run seed:clear` removes the demo data again. Only accounts flagged as demo, and the movies and favorites that belong to them, are ever touched.
 
-- **GET** `/favorites/{userId}`: Retrieve all the movies from a user's favorite list.
-  - URL Params: `userId` (The user identifier to fetch favorites for)
-  - Response: A list of movies that are marked as favorites.
+The sample catalogue lives in `scripts/movies.seed.json`: 88 movies with titles, runtimes, release years, posters and synopses taken from Wikipedia and Wikidata. Genres and the 0 to 10 ratings are curated (approximate, IMDb-style scores).
 
----
+## Environment
 
-## Tech Stack
+| Variable | Purpose |
+| --- | --- |
+| `MONGODB_URI`, `MONGODB_DB` | Database connection. The app uses its own database (default `movie_portal`). |
+| `JWT_ACCESS_SECRET` | Secret for signing tokens and hashing codes. |
+| `CLIENT_URL` | Comma separated list of allowed browser origins (include the deployed frontend). |
+| `GOOGLE_CLIENT_ID` | Google OAuth client id used to verify ID tokens. |
+| `SMTP_*`, `MAIL_FROM`, `RESEND_API_KEY` | Email delivery (SMTP first, Resend as fallback). Without either, codes are printed to the console in development. |
+| `IMGBB_API_KEY` | Hosts profile photos. |
 
-- **Node.js** and **Express.js** for building the backend server and API endpoints.
-- **MongoDB**  for database management (use MongoDB for NoSQL or MySQL/PostgreSQL for relational databases).
+## API overview
 
----
+All routes live under `/api`. Responses look like `{ "success": true, "data": ... }`.
+
+| Area | Routes |
+| --- | --- |
+| Movies | `GET /movies` (`q`, `genre`, `sort`, `page`, `limit`), `/movies/top`, `/movies/latest`, `/movies/genres`, `/movies/mine`, `/movies/:id`, `POST /movies`, `PATCH /movies/:id`, `DELETE /movies/:id` |
+| Favorites | `GET /favorites`, `GET /favorites/ids`, `PUT /favorites/:movieId`, `DELETE /favorites/:movieId` |
+| Auth | `POST /auth/register`, `/auth/verify-email`, `/auth/resend-otp`, `/auth/login`, `/auth/google`, `/auth/forgot-password`, `/auth/reset-password`, `GET /auth/demo-accounts` |
+| Account | `GET/PATCH /users/me/self`, `GET /users/me/methods`, `POST /users/me/password`, `POST` and `PUT /users/me/email`, `DELETE /users/me` |
+| Admin | `GET /admin/stats`, `GET /admin/users`, `PATCH /admin/users/:userId`, `DELETE /admin/users/:userId` |
+| Other | `POST /newsletter`, `POST /uploads/image`, `GET /public/stats`, `GET /health` |
+
+## Deploying
+
+Vercel is supported out of the box: `api/index.ts` is the serverless entry and `vercel.json` rewrites every request to it (the MongoDB connection is cached between invocations). Set the environment variables above in the project settings, including `CLIENT_URL`.
